@@ -1,0 +1,2 @@
+a = int(input('a равно '))
+b = int(input('b равно '))
