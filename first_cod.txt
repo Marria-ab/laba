@@ -1,3 +1,3 @@
 a = int(input('a равно '))
 b = int(input('b равно '))
-print(a+b)
+print(a-b)
